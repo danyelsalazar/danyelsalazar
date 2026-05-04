@@ -59,16 +59,32 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 ---
 ## 🚀 Projects
 
+<br>
+
 > ### User CLI  
-> CRUD de usuarios en Node.js  
-> MySQL como base de datos  
+> 💻 CRUD de usuarios en Node.js  
+> 🗄️ Persistencia con MySQL  
 >
 > ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 > ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 >
-> Proyecto backend  
+> Backend & manejo de datos  
 >
 > 👉 https://github.com/danyelsalazar/Diplomatura-full-stack-backend-UTN.git
+
+<br>
+
+> > ### Chat UTN  
+> Aplicación de mensajería desarrollada en React  
+> Simulación de chat (sin backend) enfocada en UI y manejo de estado  
+>
+> ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+> ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+>
+> UI interactiva • Context API • Rutas dinámicas • LocalStorage  
+>
+> 👉 https://github.com/danyelsalazar/proyecto-base-react-UTN.git
 ---
 
 ## Objetivo
