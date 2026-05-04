@@ -61,7 +61,7 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 
 <br>
 
-> ### User CLI  
+> > ### User CLI  
 > 💻 CRUD de usuarios en Node.js  
 > 🗄️ Persistencia con MySQL  
 >
