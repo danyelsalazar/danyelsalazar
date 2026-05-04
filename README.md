@@ -89,7 +89,7 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 
 ## Objetivo
 
-Busco una oportunidad como desarrollador backend o full stack donde pueda aportar valor y seguir creciendo profesionalmente.
+Busco una oportunidad como desarrollador backend/frontend o full stack donde pueda aportar valor y seguir creciendo profesionalmente.
 
 ---
 
