@@ -7,14 +7,14 @@
 <p align="center">
 Desarrollador Full Stack <br>
 Enfocado en Backend (Node.js, APIs, Bases de Datos) <br>
-Argentina
+📍Argentina
 </p>
 
 ---
 
 ## Sobre mí
 
-Soy estudiante de Licenciatura en Informática en la UNO y actualmente curso una diplomatura en desarrollo web full stack en la UTN.
+Soy estudiante de Licenciatura en Informática y simultaneamente curso una diplomatura en desarrollo web full stack.
 
 Estoy enfocado en construir backend sólidos, bien estructurados y escalables, profundizando en:
 
