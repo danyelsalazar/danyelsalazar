@@ -1,15 +1,18 @@
-# 👋 Hola, soy Dany Gasia
+# 👋 Hola, soy Danyel Salazar
 
-💻 Desarrollador Full Stack en formación  
+💻 Desarrollador Full Stack 
 🎯 Enfocado en Backend (Node.js, APIs, Bases de Datos)  
 📍 Argentina  
 
 ---
 
 ## 🚀 Sobre mí
+Soy estudiante de licenciatura informatica en la UNO. 
+Tambien actualmente estoy cursando una diplomatura en desarrollo web full stack de forma virtual en la UTN.
+Me encuentro profundizando activamente mis conocimientos en:
 
-Actualmente estoy cursando una diplomatura en desarrollo web full stack, donde estoy profundizando en:
-
+- Frontend
+- Backend
 - Diseño y desarrollo de APIs
 - Bases de datos relacionales y no relacionales
 - Normalización y optimización de datos
@@ -23,7 +26,7 @@ Me interesa construir sistemas sólidos, bien estructurados y escalables.
 
 ### 🖥️ Backend
 - Node.js
-- Express (en proceso)
+- Express
 - GraphQL (en aprendizaje)
 - REST APIs
 
@@ -50,7 +53,7 @@ Me interesa construir sistemas sólidos, bien estructurados y escalables.
 
 - Arquitectura backend profesional
 - Buenas prácticas en APIs
-- GraphQL aplicado a proyectos reales
+- GraphQL aplicado a proyectos reales de la universidad
 - Integración completa Frontend + Backend
 
 ---
@@ -67,17 +70,13 @@ Me interesa construir sistemas sólidos, bien estructurados y escalables.
 
 ## 🎯 Objetivo
 
-Conseguir una oportunidad como desarrollador backend o full stack donde pueda aportar valor y seguir creciendo profesionalmente.
+Conseguir una oportunidad como desarrollador backend, forntend  o full stack donde pueda aportar valor y seguir creciendo profesionalmente.
 
 ---
 
 ## 📫 Contacto
 
-📧 (tu email acá)  
-💼 LinkedIn: (tu linkedin acá)  
+📧 danygasia2@gmail.com  
+💼 https://www.linkedin.com/in/danyel-salazar-81a189232
 
 ---
-
-## ⚡ Dato extra
-
-También tengo experiencia en el manejo de un negocio propio, lo que me ayudó a desarrollar responsabilidad, constancia y enfoque en resultados.
