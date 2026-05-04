@@ -66,7 +66,7 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 > ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 > ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 >
-> ⭐ Proyecto backend  
+> Proyecto backend  
 >
 > 👉 https://github.com/danyelsalazar/Diplomatura-full-stack-backend-UTN.git
 ---
