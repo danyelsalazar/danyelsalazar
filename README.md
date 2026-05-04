@@ -58,16 +58,58 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 
 ---
 
-## Proyectos
+## 📌 Proyectos
 
-🔹 CRUD de usuarios en CLI  
-Aplicación en Node.js con operaciones completas (create, read, update, delete), estructura modular y manejo de lógica.
+<div align="center">
 
-Próximamente:
-- API REST basada en este proyecto
-- Autenticación con JWT
-- Conexión a PostgreSQL
+### 🧩 User CLI - CRUD con MySQL
 
+<p>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+</p>
+
+💻 Aplicación de línea de comandos desarrollada con Node.js  
+🗄️ Persistencia de datos con MySQL  
+⚙️ Arquitectura modular enfocada en backend
+
+</div>
+
+---
+
+### 🚀 Funcionalidades
+
+- Crear usuarios en base de datos  
+- Listar usuarios almacenados  
+- Actualizar información  
+- Eliminar registros  
+- Validaciones de datos  
+- Manejo de errores  
+
+---
+
+### 🧠 Lo que demuestra este proyecto
+
+- Conexión a base de datos relacional  
+- Ejecución de queries SQL  
+- Separación de lógica (estructura tipo backend)  
+- Manejo de operaciones CRUD reales  
+
+---
+
+### 🛠️ Tecnologías
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### ⚡ Uso
+
+```bash
+node app.js create --name "Dany" --email "dany@mail.com"
+node app.js list
+node app.js update 1 --name "Nuevo nombre"
+node app.js delete 1
 ---
 
 ## Objetivo
