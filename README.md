@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-💻 Desarrollador Full Stack <br>
-🎯 Enfocado en Backend (Node.js, APIs, Bases de Datos) <br>
-📍 Argentina
+Desarrollador Full Stack <br>
+Enfocado en Backend (Node.js, APIs, Bases de Datos) <br>
+Argentina
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Soy estudiante de Licenciatura en Informática en la UNO y actualmente curso una diplomatura en desarrollo web full stack en la UTN.
 
@@ -25,18 +25,18 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 
 ---
 
-## 🧠 Tecnologías
+## Tecnologías
 
-### 🚀 Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ Bases de Datos
+### Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,7 +49,7 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 
 ---
 
-## 📚 Actualmente aprendiendo
+## Actualmente desarrollando
 
 - Arquitectura backend profesional
 - Buenas prácticas en APIs
@@ -58,25 +58,25 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 
 ---
 
-## 📌 Proyectos
+## Proyectos
 
 🔹 CRUD de usuarios en CLI  
 Aplicación en Node.js con operaciones completas (create, read, update, delete), estructura modular y manejo de lógica.
 
-👉 Próximamente:
+Próximamente:
 - API REST basada en este proyecto
 - Autenticación con JWT
 - Conexión a PostgreSQL
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Busco una oportunidad como desarrollador backend o full stack donde pueda aportar valor y seguir creciendo profesionalmente.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 📧 danygasia2@gmail.com  
 💼 https://www.linkedin.com/in/danyel-salazar-81a189232
