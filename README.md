@@ -1,54 +1,47 @@
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-# 👋 Hola, soy Danyel Salazar
+<h1 align="center">👋 Hola, soy Danyel Salazar</h1>
 
-💻 Desarrollador Full Stack 
-🎯 Enfocado en Backend (Node.js, APIs, Bases de Datos)  
-📍 Argentina  
+<p align="center">
+💻 Desarrollador Full Stack <br>
+🎯 Enfocado en Backend (Node.js, APIs, Bases de Datos) <br>
+📍 Argentina
+</p>
 
 ---
 
 ## 🚀 Sobre mí
-Soy estudiante de licenciatura informatica en la UNO. 
-Tambien actualmente estoy cursando una diplomatura en desarrollo web full stack de forma virtual en la UTN.
-Me encuentro profundizando activamente mis conocimientos en:
 
-- Frontend
-- Backend
-- Diseño y desarrollo de APIs
+Soy estudiante de Licenciatura en Informática en la UNO y actualmente curso una diplomatura en desarrollo web full stack en la UTN.
+
+Estoy enfocado en construir backend sólidos, bien estructurados y escalables, profundizando en:
+
+- Desarrollo de APIs REST
 - Bases de datos relacionales y no relacionales
 - Normalización y optimización de datos
 - Arquitectura backend
 
-Me interesa construir sistemas sólidos, bien estructurados y escalables.
-
 ---
 
-## 🧠 Tecnologías que uso
+## 🧠 Tecnologías
 
-### 🖥️ Backend
-- Node.js
-- Express
-- GraphQL (en aprendizaje)
-- REST APIs
+### Backend
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 
-### 🗄️ Bases de Datos
-- PostgreSQL
-- MySQL
-- MongoDB
+### Bases de Datos
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🎨 Frontend
-- React
-- HTML
-- CSS
-- JavaScript
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge)
 
-### 🛠️ Herramientas
-- Git & GitHub
-- Postman
-- Nodemon
-- VS Code
+### Herramientas
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge)
 
 ---
 
@@ -56,24 +49,26 @@ Me interesa construir sistemas sólidos, bien estructurados y escalables.
 
 - Arquitectura backend profesional
 - Buenas prácticas en APIs
-- GraphQL aplicado a proyectos reales de la universidad
+- GraphQL aplicado a proyectos reales
 - Integración completa Frontend + Backend
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Proyectos
 
-🔹 Próximamente vas a ver proyectos donde aplico:
-- CRUD completos
+🔹 CRUD de usuarios en CLI  
+Aplicación en Node.js con operaciones completas (create, read, update, delete), manejo de lógica y estructura modular.
+
+👉 Próximamente:
+- API REST basada en este proyecto
 - Autenticación de usuarios
-- Conexión a bases de datos
-- APIs REST y GraphQL
+- Conexión a PostgreSQL
 
 ---
 
 ## 🎯 Objetivo
 
-Conseguir una oportunidad como desarrollador backend, forntend  o full stack donde pueda aportar valor y seguir creciendo profesionalmente.
+Busco una oportunidad como desarrollador backend o full stack donde pueda aplicar mis conocimientos y seguir creciendo profesionalmente.
 
 ---
 
@@ -81,5 +76,3 @@ Conseguir una oportunidad como desarrollador backend, forntend  o full stack don
 
 📧 danygasia2@gmail.com  
 💼 https://www.linkedin.com/in/danyel-salazar-81a189232
-
----
