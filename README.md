@@ -12,7 +12,7 @@ Enfocado en Backend (Node.js, APIs, Bases de Datos) <br>
 
 ---
 
-## Sobre mí
+## 📎 Sobre mí
 
 Soy estudiante de Licenciatura en Informática y simultaneamente curso una diplomatura en desarrollo web full stack.
 
@@ -76,7 +76,7 @@ Busco una oportunidad como desarrollador backend o full stack donde pueda aporta
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <p align="left">
   <a href="mailto:danygasia2@gmail.com">
