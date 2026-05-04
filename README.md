@@ -57,24 +57,18 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 - Integración completa Frontend + Backend
 
 ---
-## Proyecto Destacado
+## 🚀 Projects
 
-<div align="center">
-
-### User CLI - CRUD con MySQL
-
-<a href="https://github.com/danyelsalazar/Diplomatura-full-stack-backend-UTN.git">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220"/>
-</a>
-
-📎 CLI desarrollada en Node.js con persistencia en MySQL  
-📎 Enfocada en lógica backend y manejo de datos reales  
-
-<br>
-
-👉 <a href="https://github.com/danyelsalazar/Diplomatura-full-stack-backend-UTN.git"><b>Ver repositorio</b></a>
-
-</div>
+> ### User CLI  
+> CRUD de usuarios en Node.js  
+> MySQL como base de datos  
+>
+> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+> ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+>
+> ⭐ Proyecto backend  
+>
+> 👉 https://github.com/danyelsalazar/Diplomatura-full-stack-backend-UTN.git
 ---
 
 ## Objetivo
