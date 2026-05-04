@@ -2,13 +2,13 @@
 
 <p align="center">
 💻 Desarrollador Full Stack <br>
-🎯 Enfocado en Backend (Node.js, APIs, Bases de Datos) <br>
-📍 Argentina
+Enfocado actualmente en Backend (Node.js, APIs, Bases de Datos) <br>
+Argentina
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Soy estudiante de Licenciatura en Informática en la UNO y actualmente curso una diplomatura en desarrollo web full stack en la UTN.
 
@@ -21,7 +21,7 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 
 ---
 
-## 🧠 Tecnologías
+## Tecnologías
 
 ### Backend
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -45,7 +45,7 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 
 ---
 
-## 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 - Arquitectura backend profesional
 - Buenas prácticas en APIs
@@ -54,25 +54,13 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 
 ---
 
-## 📌 Proyectos
-
-🔹 CRUD de usuarios en CLI  
-Aplicación en Node.js con operaciones completas (create, read, update, delete), manejo de lógica y estructura modular.
-
-👉 Próximamente:
-- API REST basada en este proyecto
-- Autenticación de usuarios
-- Conexión a PostgreSQL
-
----
-
-## 🎯 Objetivo
+## Objetivo
 
 Busco una oportunidad como desarrollador backend o full stack donde pueda aplicar mis conocimientos y seguir creciendo profesionalmente.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 📧 danygasia2@gmail.com  
 💼 https://www.linkedin.com/in/danyel-salazar-81a189232
