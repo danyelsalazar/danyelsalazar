@@ -76,7 +76,16 @@ Busco una oportunidad como desarrollador backend o full stack donde pueda aporta
 
 ---
 
-## Contacto
+## 📫 Contacto
 
-📧 danygasia2@gmail.com  
-💼 https://www.linkedin.com/in/danyel-salazar-81a189232
+<p align="left">
+  <a href="mailto:danygasia2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Danyel%20Salazar-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/danyel-salazar-81a189232">
+    <img src="https://img.shields.io/badge/LinkedIn-Danyel%20Salazar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
