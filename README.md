@@ -104,7 +104,7 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 > Frontend SPA en desarrollo  
 >
 > 👉 https://github.com/danyelsalazar/frontend-info-track-UNO.git
-<br>
+> <br>
 > 📎 Pruebalo aqui: https://frontend-info-track-uno.vercel.app/
 
 ## Objetivo
