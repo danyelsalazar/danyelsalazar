@@ -93,7 +93,7 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 ---
 <br>
 
-> ### InfoTrack Frontend  
+> > ### InfoTrack Frontend  
 > Landing page para sistema de seguimiento académico  
 > Visualización de carreras, materias y cuatrimestre  
 >
