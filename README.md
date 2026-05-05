@@ -89,7 +89,7 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 >
 > 👉 https://github.com/danyelsalazar/proyecto-base-react-UTN.git
 > <br>
-> Pruebalo: https://proyecto-base-react-utn.vercel.app/login
+> 📎 Pruebalo aqui: https://proyecto-base-react-utn.vercel.app/login
 ---
 <br>
 
@@ -104,6 +104,7 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 > Frontend SPA en desarrollo  
 >
 > 👉 https://github.com/danyelsalazar/frontend-info-track-UNO.git
+> 📎 Pruebalo aqui: https://frontend-info-track-uno.vercel.app/
 
 ## Objetivo
 
