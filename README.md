@@ -91,7 +91,7 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 >
 > 👉 https://github.com/danyelsalazar/forit-challenge-task.git 
 ><br>
-> 📎 Pruebalo aqui: https://forit-challenge-task-7jyoebz0k-danyelsalazars-projects.vercel.app/
+> 📎 Pruebalo aqui puede tarde aproximadamente 15-20 segundos en que se active el servidor de render: https://forit-challenge-task-7jyoebz0k-danyelsalazars-projects.vercel.app/
 ---
 > <br>
 
