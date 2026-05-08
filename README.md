@@ -74,7 +74,7 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 > Backend & manejo de datos  
 >
 > 👉 https://github.com/danyelsalazar/Diplomatura-full-stack-backend-UTN.git
-
+---
 <br>
 
 > >### Tasks list APP Full Stack  
@@ -92,6 +92,7 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 > 👉 https://github.com/danyelsalazar/forit-challenge-task.git 
 ><br>
 > 📎 Pruebalo aqui: https://forit-challenge-task-7jyoebz0k-danyelsalazars-projects.vercel.app/
+---
 > <br>
 
 > > ### Chat UTN  
