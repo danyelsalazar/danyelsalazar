@@ -77,6 +77,22 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 
 <br>
 
+> ### ForIt Task Manager Full Stack  
+> 📋 Aplicación integral para la gestión de tareas con persistencia de datos  
+> ✏️ Creación, edición, filtrado por estado y búsqueda en tiempo real  
+>
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+> ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+> ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+> ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+>
+> CRUD completo con arquitectura desacoplada y diseño responsive  
+>
+> 👉 https://github.com/tuusuario/tu-repo  
+> 📎 Pruebalo aqui: https://tu-app.vercel.app
+> <br>
+
 > > ### Chat UTN  
 > Aplicación de mensajería desarrollada en React  
 > Simulación de chat (sin backend) enfocada en UI y manejo de estado  
