@@ -77,7 +77,7 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 
 <br>
 
-> ### Tasks list APP Full Stack  
+> >### Tasks list APP Full Stack  
 > Aplicación integral para la gestión de tareas con persistencia de datos  
 > Creación, edición, filtrado por estado y búsqueda en tiempo real  
 >
@@ -90,6 +90,7 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 > CRUD completo con arquitectura desacoplada y diseño responsive  
 >
 > 👉 https://github.com/danyelsalazar/forit-challenge-task.git 
+><br>
 > 📎 Pruebalo aqui: https://forit-challenge-task-7jyoebz0k-danyelsalazars-projects.vercel.app/
 > <br>
 
