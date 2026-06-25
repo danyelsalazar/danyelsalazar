@@ -112,18 +112,16 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 <br>
 
 > > ### InfoTrack Frontend  
-> Landing page para sistema de seguimiento académico  
-> Visualización de carreras, materias y cuatrimestre  
+> PWA de seguimiento académico  
+> Visualización de carreras, materias, cuatrimestre  y progreso personal academico
 >
 > ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 > ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 > ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 >
-> Frontend SPA en desarrollo  
->
 > 👉 https://github.com/danyelsalazar/frontend-info-track-UNO.git
 > <br>
-> 📎 Pruebalo aqui: https://frontend-info-track-uno.vercel.app/
+> 📎 Pruebalo aqui: [https://frontend-info-track-uno.vercel.app/](https://infotrack.vercel.app/)
 
 ## Objetivo
 
