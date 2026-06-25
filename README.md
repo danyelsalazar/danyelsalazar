@@ -60,7 +60,7 @@ Estoy enfocado en construir backend sólidos, bien estructurados y escalables, p
 - Integración completa Frontend + Backend
 
 ---
-## 🚀 Projects
+## Projects
 
 <br>
 
